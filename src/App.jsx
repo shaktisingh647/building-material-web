@@ -103,7 +103,7 @@ const ShaktiEnterprises = () => {
         <div className="max-w-4xl mx-auto text-center">
           <h2 className="text-3xl md:text-4xl font-bold mb-8">Contact Shakti Enterprises</h2>
           <p className="text-lg mb-4">
-            For inquiries, call us at: <a href="tel:+1234567890" className="underline">9312504995</a>
+            For inquiries, call us at: <a href="tel:+9312504995" className="underline">9312504995</a>
           </p>
           <p className="text-lg mb-8">
             WhatsApp : <a href="https://wa.me/9354253240" className="underline">9354253240</a>
